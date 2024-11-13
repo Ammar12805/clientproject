@@ -1,0 +1,86 @@
+*{
+    font-family: cursive;
+}
+
+
+.header{
+    z-index: 0;
+    overflow: hidden;
+}
+.back{
+    background-color: transparent;
+}
+
+
+.specialPadding{
+    padding: 100px 0px;
+}
+
+.carousel-caption{
+    /* position: relative;
+    top: 300px; */
+    margin-bottom: 100px;
+    margin-left: 500px;
+}
+
+.ing{
+    width: 250px;
+    height: 350px !important;
+}
+.custimeimag{
+    /* object-fit: cover; */
+    padding: 0px 3px;
+    width: 300px !important;
+    border-radius: 10px;
+    height: 500px !important;
+
+}
+.main{
+    box-shadow: 5px 5px 5px 5px grey;
+    margin-right: 90px;
+}
+
+.tap{
+    border-top: 2px solid grey;
+    margin-top: 10px;
+}
+.heading{
+    position: relative;
+    top: 150px;
+}
+
+.wrapper{
+    background-color: gray;
+}
+.arrival{
+   margin-top: 150px;
+}
+.list{
+    list-style-type: none;
+}
+.inp{
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+    margin-bottom: 20px;
+    color: white;
+    /* background-image: url('<i class="bi bi-envelope"></i>');
+    background-repeat: no-repeat;
+    background-position: top; */
+}
+
+.pic{
+    background-image: url('https://themewagon.github.io/minishop/images/bg_6.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 100px;
+}
+.about{
+    text-align: center;
+    font-weight: bold;
+}
+
+.wrap:hover{
+    transition-timing-function: ease-in-out;
+    zoom: normal;
+}
